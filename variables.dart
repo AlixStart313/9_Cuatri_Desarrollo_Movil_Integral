@@ -28,8 +28,6 @@ class persona{
     this.active,
     this.altura,
     this.cumple
-  
-  
   );
   
 }
